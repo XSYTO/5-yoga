@@ -6,17 +6,20 @@
 
 # UFO
 
-_BUTTON-BORDER-PADDING website project_
+_YOGA website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/XSYTO/3-ufo
+Site published at: https://github.com/XSYTO/5-yoga
 
-Design: [BUTTON-BORDER-PADDING](https://cdn.discordapp.com/attachments/850245533838868480/951399092746092554/404-1.png)
+Design: [yoga](https://cdn.discordapp.com/attachments/850245533838868480/916019208788258886/yoga-lifestyle.png)
 
 ## Project features
 
 -   Github pages
+-   fixed width container
+-   header: logo + nav
+-   png images
 
 ## Authors
 
