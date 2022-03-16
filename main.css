@@ -1,8 +1,45 @@
+body { 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
 header,
-main {
-    background-color:yellow; 
+main { 
     width: 800px; 
     margin-left:calc(50% - 400px);
+    display: inline-block;
+    
+    
+}
+
+img {
+    float:left;
+    height: 46px;
+}
+
+nav {
+    float:right;
+    margin-top: 13px;
+}
+a {
+    display: inline-block;
+    font-size: 18px;
+    padding-bottom: 3px;
+    line-height: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+a:hover {
+    color: orangered;
+    border-bottom: 2px solid orangered;
+    
+}
+
+a:nth-child(1) {
+    border-bottom: 2px solid orangered;
 }
 
 main {
